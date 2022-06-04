@@ -1,0 +1,166 @@
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\My Curiculum Vitae.dll.config
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\My Curiculum Vitae.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\My Curiculum Vitae.pdb
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\My Curiculum Vitae.xml
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\csc.exe
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\csc.exe.config
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\csc.rsp
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\csi.exe
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\csi.exe.config
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\csi.rsp
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.AppContext.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.Collections.Immutable.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.Console.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.Globalization.Calendars.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.IO.Compression.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.IO.FileSystem.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.Net.Http.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.Net.Sockets.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.Reflection.Metadata.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.ValueTuple.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.Xml.XPath.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\vbc.exe
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\vbc.exe.config
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\vbc.rsp
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\VBCSCompiler.exe
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\VBCSCompiler.exe.config
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\Antlr3.Runtime.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\Microsoft.Web.Infrastructure.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\Newtonsoft.Json.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\System.Web.Helpers.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\System.Web.Mvc.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\System.Web.Optimization.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\System.Web.Razor.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\System.Web.WebPages.Deployment.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\System.Web.WebPages.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\System.Web.WebPages.Razor.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\WebGrease.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\System.Web.Helpers.xml
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\System.Web.Mvc.xml
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\System.Web.Optimization.xml
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\System.Web.Razor.xml
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\System.Web.WebPages.xml
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\System.Web.WebPages.Deployment.xml
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\System.Web.WebPages.Razor.xml
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\Newtonsoft.Json.xml
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\Antlr3.Runtime.pdb
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\obj\Debug\My Curiculum Vitae.vbproj.AssemblyReference.cache
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\obj\Debug\My_Curiculum_Vitae.Resources.resources
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\obj\Debug\My Curiculum Vitae.vbproj.GenerateResource.cache
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\obj\Debug\My Curiculum Vitae.vbproj.CoreCompileInputs.cache
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\obj\Debug\My Curiculum Vitae.vbproj.CopyComplete
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\obj\Debug\My Curiculum Vitae.dll
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\obj\Debug\My Curiculum Vitae.xml
+G:\Porasuna this semester\database mahadi sir\LAB\My Curiculum Vitae\My Curiculum Vitae\obj\Debug\My Curiculum Vitae.pdb
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\My Curiculum Vitae.dll.config
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\My Curiculum Vitae.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\My Curiculum Vitae.pdb
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\My Curiculum Vitae.xml
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\csc.exe
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\csc.exe.config
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\csc.rsp
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\csi.exe
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\csi.exe.config
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\csi.rsp
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\Microsoft.Managed.Core.targets
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.AppContext.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.Collections.Immutable.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.Console.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.Globalization.Calendars.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.IO.Compression.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.IO.FileSystem.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.Net.Http.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.Net.Sockets.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.Reflection.Metadata.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.ValueTuple.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.Xml.XmlDocument.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.Xml.XPath.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\vbc.exe
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\vbc.exe.config
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\vbc.rsp
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\VBCSCompiler.exe
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\roslyn\VBCSCompiler.exe.config
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\Antlr3.Runtime.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\Microsoft.Web.Infrastructure.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\Newtonsoft.Json.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\System.Web.Helpers.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\System.Web.Mvc.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\System.Web.Optimization.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\System.Web.Razor.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\System.Web.WebPages.Deployment.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\System.Web.WebPages.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\System.Web.WebPages.Razor.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\WebGrease.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\System.Web.Helpers.xml
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\System.Web.Mvc.xml
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\System.Web.Optimization.xml
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\System.Web.Razor.xml
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\System.Web.WebPages.xml
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\System.Web.WebPages.Deployment.xml
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\System.Web.WebPages.Razor.xml
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\Newtonsoft.Json.xml
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\Antlr3.Runtime.pdb
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\obj\Debug\My Curiculum Vitae.vbproj.AssemblyReference.cache
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\obj\Debug\My_Curiculum_Vitae.Resources.resources
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\obj\Debug\My Curiculum Vitae.vbproj.GenerateResource.cache
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\obj\Debug\My Curiculum Vitae.vbproj.CoreCompileInputs.cache
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\obj\Debug\My Curiculum Vitae.vbproj.CopyComplete
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\obj\Debug\My Curiculum Vitae.dll
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\obj\Debug\My Curiculum Vitae.xml
+F:\OneDrive\Desktop\My Curiculum Vitae\My Curiculum Vitae\obj\Debug\My Curiculum Vitae.pdb
